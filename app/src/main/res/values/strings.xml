@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Arati Sangrahalay</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="nightmode">Nightmode</string>
+    <string name="todo">TODO</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="about">About</string>
+    <string name="rate_this_app">Rate This App</string>
+    <string name="x">X</string>
+    <string name="aratisangrahalay">Arati Sangrahalay</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="this_app_useful_for_reading_the_arati_for_ganpati_festival_all_others"><![CDATA[This App Useful for reading the arati for ganpati festival & all Others]]></string>
+    <string name="tutorial">TUTORIAL</string>
+
+
+</resources>

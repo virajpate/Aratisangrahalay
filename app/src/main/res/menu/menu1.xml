@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tutorials"
+        android:icon="@drawable/tutorial"
+        android:title="Tutorial"/>
+    <item android:id="@+id/shareapp"
+        android:icon="@drawable/shareapp"
+        android:title="ShareApp"/>
+    <item android:id="@+id/likeus"
+        android:icon="@drawable/like"
+        android:title="Like us"/>
+    <item android:id="@+id/setting"
+        android:icon="@drawable/settings"
+        android:title="Setting"/>
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/feedback"
+        android:title="Feedback"/>
+
+
+</menu>
